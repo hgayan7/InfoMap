@@ -3,4 +3,4 @@ Android app which uses Geocoding API,Maps API and openweathermap's API to show a
 
 Geocoding API key,MAPs API key and openweathermap's API key are needed for this app.Just replace the string which asks for API keys and you are good to go.
 
-<a href="https://imgur.com/f5o8SwC"><img src="https://i.imgur.com/f5o8SwC.gif" title="source: imgur.com" /></a>
+[Imgur](https://i.imgur.com/f5o8SwC.gifv)
