@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00628B"
+    tools:context="com.example.him.infomap.HelloActivity">
+    <TextView
+        android:background="#00628B"
+        android:id="@+id/hello_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:elevation="10dp"
+        android:gravity="center"
+        android:textColor="#E6E6DC"
+        android:text="Hello!"
+        android:textAlignment="center"
+        android:visibility="visible"
+        android:textSize="80sp" />
+
+</RelativeLayout>
